@@ -97,7 +97,6 @@ def main(link_list)
 
 end
 
-
 def safe_url_name(url)
   url.gsub(/[\W]+/, '_')
 end
@@ -108,7 +107,7 @@ if File.exist?("links.txt")
 end
 
 
-
+#mail section - to be refactored.
 options = { :address              => "smtp.gmail.com",
             :port                 => 587,
             :domain               => 'localhost',
