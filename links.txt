@@ -1,1 +1,14 @@
 http://www.google.com
+http://www.yahoo.com
+http://www.huffingtonpost.com
+http://www.dailywire.com
+http://www.facebook.com
+http://www.newsweek.com
+http://www.twitter.com
+http://www.reddit.com
+http://www.craigslist.com
+http://www.wallstreetjournal.com
+http://www.life.com
+http://www.microsoft.com
+http://www.gmail.com
+http://www.mail.yahoo.com
