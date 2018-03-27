@@ -161,4 +161,4 @@ def mail_the_report(sender,user_name,password,stat_file = "stats.txt",recipeient
 end
 
 # Start the tool.
-main("links.txt","credentials.txt")
+main("links.txt","test_credentials.txt")
